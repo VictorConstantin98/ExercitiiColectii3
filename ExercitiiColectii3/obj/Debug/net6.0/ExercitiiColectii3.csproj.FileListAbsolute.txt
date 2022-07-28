@@ -1,0 +1,15 @@
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\bin\Debug\net6.0\ExercitiiColectii3.exe
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\bin\Debug\net6.0\ExercitiiColectii3.deps.json
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\bin\Debug\net6.0\ExercitiiColectii3.runtimeconfig.json
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\bin\Debug\net6.0\ExercitiiColectii3.dll
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\bin\Debug\net6.0\ref\ExercitiiColectii3.dll
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\bin\Debug\net6.0\ExercitiiColectii3.pdb
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\obj\Debug\net6.0\ExercitiiColectii3.csproj.AssemblyReference.cache
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\obj\Debug\net6.0\ExercitiiColectii3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\obj\Debug\net6.0\ExercitiiColectii3.AssemblyInfoInputs.cache
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\obj\Debug\net6.0\ExercitiiColectii3.AssemblyInfo.cs
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\obj\Debug\net6.0\ExercitiiColectii3.csproj.CoreCompileInputs.cache
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\obj\Debug\net6.0\ExercitiiColectii3.dll
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\obj\Debug\net6.0\ref\ExercitiiColectii3.dll
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\obj\Debug\net6.0\ExercitiiColectii3.pdb
+C:\Users\Costi\source\repos\ExercitiiColectii3\ExercitiiColectii3\obj\Debug\net6.0\ExercitiiColectii3.genruntimeconfig.cache
